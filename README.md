@@ -30,21 +30,21 @@ Content/
 
 ## Included Maps
 
-- StarterMap  
-- Advanced_Lighting  
+- StarterMap
+- Advanced_Lighting
 
 ## Download
 
 Go to the Releases section and download:
 
-UE5.6_StarterContent.zip
+    `UE5.6_StarterContent.zip`
 
 ## Usage
 
 1. Extract the archive
 2. Copy the StarterContent folder into your Unreal project:
 
-YourProject/Content/StarterContent
+    `<project_name>/Content/StarterContent`
 
 3. Open Unreal Engine
 4. Assets will appear in the Content Browser
@@ -57,7 +57,7 @@ YourProject/Content/StarterContent
 
 ## License
 
-This content is provided under the Unreal Engine EULA.  
+This content is provided under the Unreal Engine EULA.
 Refer to Epic Games licensing terms for usage and redistribution rights.
 
-https://www.unrealengine.com/eula
+- [Unreal® Engine End User License Agreement](https://www.unrealengine.com/eula)
