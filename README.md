@@ -39,7 +39,7 @@ Content/
 
 Go to the Releases section and download:
 
-    `UE5.6_StarterContent.zip`
+`UE5.6_StarterContent.zip`
 
 ## Usage
 
