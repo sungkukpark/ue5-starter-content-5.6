@@ -39,7 +39,7 @@ Content/
 
 Go to the Releases section and download:
 
-`UE5.6_StarterContent.zip`
+- [UE5.6_StarterContent.zip](https://github.com/sungkukpark/ue5-starter-content-5.6/releases/download/5.6/UE5.6_StarterContent.zip)
 
 ## Usage
 
