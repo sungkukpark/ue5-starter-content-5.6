@@ -16,6 +16,7 @@ These assets are designed to help developers quickly prototype environments and 
 
 ## Contents
 
+```text
 Content/
 └── StarterContent/
     ├── Materials/
@@ -27,6 +28,7 @@ Content/
     └── Maps/
         ├── StarterMap
         └── Advanced_Lighting
+```
 
 ## Included Maps
 
