@@ -32,8 +32,17 @@ Content/
 
 ## Included Maps
 
-- StarterMap
-- Advanced_Lighting
+### StarterMap
+
+The StarterMap Level, located in the `Content/StarterContent/Maps` folder, is a demo of the starter content in action. Press **Play** or **Simulate** in the Main Toolbar to see it in action.
+
+![StarterMap](ue5_1-starter-content-map.png)
+
+### Advanced_Lighting
+
+Starter content also includes the Advanced_Lighting Level, which demonstrates a lighting setup created using Blueprints.
+
+![Advanced_Lighting](ue5_1-advanced-lighting-map.png)
 
 ## Download
 
